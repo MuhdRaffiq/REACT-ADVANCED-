@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-// use
+// "Use" must be written for the component name 
 // component name must be uppercase
 // must be in the function/component body
 // cannot call conditionally

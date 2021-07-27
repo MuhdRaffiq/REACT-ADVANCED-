@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { useState} from 'react';
 import { data } from '../../../data';
 
 const UseStateArray = () => {
-  const [people, setPeople] = React.useState(data)  // React.usestate can also use with by import data
+  const [people, setPeople] = useState(data)  // React.usestate can also use with by import data
   
   const removeItem = (id) => {
     

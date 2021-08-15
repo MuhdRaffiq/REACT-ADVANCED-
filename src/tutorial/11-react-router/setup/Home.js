@@ -4,8 +4,8 @@ const Home = () => {
   return (
     <div>
       <h1>Home Page</h1>
-      <p>shake and bake
-      </p>
+      {/* <p>shake and bake
+      </p> */}
     </div>
   );
 };

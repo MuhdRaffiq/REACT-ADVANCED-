@@ -19,13 +19,14 @@ import React from 'react';
 //import Setup from './tutorial/9-custom-hooks/setup/1-fetch-example';
 //import Setup from './tutorial/10-prop-types/setup';
 //import Final from './tutorial/11-react-router/final';
-import Setup from './tutorial/11-react-router/setup';
+//import Setup from './tutorial/11-react-router/setup';
+import Index from './tutorial/12-memo-useMemo-useCallback/setup/index';
      
 function App() {
   return (
     <div className = 'container'>
       {/* <h2>advanced react</h2> */}
-      <Setup/>
+      <Index/>
     </div>
   );
 }
